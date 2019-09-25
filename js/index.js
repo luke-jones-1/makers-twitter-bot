@@ -1,4 +1,7 @@
 const makersTwitter = require('./makers-twitter')
+var Twitter = require('twitter');
+var config = require('./config.js');
+var T = new Twitter(config);
 
 console.log('hello')
 

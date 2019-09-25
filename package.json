@@ -1,0 +1,22 @@
+{
+  "name": "makers-twitter-bot",
+  "version": "1.0.0",
+  "description": "'Twitter bot for makers academy tasks' ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luke-jones-1/makers-twitter-bot.git"
+  },
+  "author": "\"Luke Jones\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luke-jones-1/makers-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/luke-jones-1/makers-twitter-bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}

@@ -2,3 +2,5 @@ js/config.js
 js/node_modules/
 js/package-lock.json
 ruby/.env
+ruby/.env.example
+js/config.example.js
